@@ -6,7 +6,7 @@ import requests
 from llm_api import generate_qa_from_text
 import json
 
-url = 'http://localhost:3000/detect-intent'
+url = 'http://localhost:3001/detect-intent'
 
 
 # Main Streamlit app code
